@@ -83,7 +83,7 @@ export default function ContactPage() {
                 <Button type="submit" variant="gold" size="lg">Contact a Tax Professional</Button>
               </form>
               <div className="mt-6 grid gap-3 border-t pt-6 text-sm text-muted-foreground">
-                <p className="flex gap-2"><Mail className="mt-0.5 h-4 w-4 text-gold" /> jao_taxservices@outlook.com</p>
+                <p className="flex gap-2"><Mail className="mt-0.5 h-4 w-4 text-gold" /> wale_taxservices@outlook.com</p>
                 <p className="flex gap-2"><ShieldCheck className="mt-0.5 h-4 w-4 text-gold" /> Do not send sensitive tax documents by standard email. Use the secure upload path when available.</p>
               </div>
             </CardContent>
